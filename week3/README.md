@@ -66,6 +66,13 @@ Normalized IoCs are structured into MISP-compatible attribute formats for seamle
 3. Detection Engineering: Sigma Rule Generation
 To detect Vidar Stealer execution in Windows environments via suspicious process creation and temp folder activity, the following Sigma Rule was crafted:
 
+---
+
+## 3. Detection Engineering: Sigma Rule Generation
+
+To detect Vidar Stealer execution in Windows environments via suspicious process creation and temp folder activity, the following **Sigma Rule** was crafted:
+
+```yaml
 title: Suspicious Process Spawning from Fake Crack Utility (Vidar Stealer)
 id: f47ac10b-58cc-4372-a567-0e02b2c3d479
 status: experimental
@@ -73,7 +80,7 @@ description: Detects Vidar Stealer execution originating from suspicious temp fo
 author: CTI Student Team
 date: 2026/09/23
 references:
-    - [https://virustotal.com](https://virustotal.com)
+    - https://virustotal.com
 tags:
     - attack.execution
     - attack.t1055
@@ -93,6 +100,7 @@ detection:
 falsepositives:
     - Legitimate administrative software bundlers
 level: high
+```
 <img width="1902" height="771" alt="image" src="https://github.com/user-attachments/assets/c524dfe8-ceb2-470d-9593-476f558a9fc6" />
 
 
