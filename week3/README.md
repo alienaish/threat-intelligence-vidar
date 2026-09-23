@@ -101,7 +101,9 @@ falsepositives:
     - Legitimate administrative software bundlers
 level: high
 ```
-<img width="1902" height="771" alt="image" src="https://github.com/user-attachments/assets/c524dfe8-ceb2-470d-9593-476f558a9fc6" />
+
+<img width="1902" height="771" alt="image" src="https://github.com/user-attachments/assets/3197acac-1b98-4711-ac6a-d317f45f1db6" />
+
 
 
 
