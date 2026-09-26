@@ -4,8 +4,6 @@ Project Title: Detection Engineering and Threat Intelligence Analysis of Vidar S
 
 ## 1. OSINT Data Source Mapping
 
-Source: ThreatFox Type: Free/Open Data: C2 IPs and domain URLs Reliability: High Usage: Gathering active Vidar server addresses
-
 Source: MalwareBazaar Type: Free/Open Data: SHA256/MD5 Hashes Reliability: High Usage: Getting file hashes of Vidar samples
 
 Source: VirusTotal Type: Free/Open Data: Antivirus scan results and file graphs Reliability: Very High Usage: Checking if our collected hashes and IPs are flagged by antiviruses
