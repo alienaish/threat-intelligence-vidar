@@ -102,7 +102,8 @@ falsepositives:
 level: high
 ```
 
-<img width="1902" height="771" alt="image" src="https://github.com/user-attachments/assets/3197acac-1b98-4711-ac6a-d317f45f1db6" />
+<img width="1911" height="817" alt="image" src="https://github.com/user-attachments/assets/273b2b9c-5401-4801-90a8-96095d741f05" />
+
 
 
 
