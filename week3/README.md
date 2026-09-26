@@ -77,7 +77,7 @@ title: Suspicious Process Spawning from Fake Crack Utility (Vidar Stealer)
 id: f47ac10b-58cc-4372-a567-0e02b2c3d479
 status: experimental
 description: Detects Vidar Stealer execution originating from suspicious temp folders often used by pirated software installers.
-author: CTI Student Team
+author: Amangeldina Milana , Imataeva Aisha
 date: 2026/09/23
 references:
     - https://virustotal.com
